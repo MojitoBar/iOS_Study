@@ -38,4 +38,4 @@ Collection Types에 대해 알게 되었습니다.
 - struct와 class의 차이는 무엇인가?
 
 [2주차]
-추가예정
+- 추가예정
